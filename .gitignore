@@ -52,3 +52,25 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Main program input data
+input.py
+
+# Files used for program input / output
+*.[gG][rR][dD]
+
+# Eclipse / LiClipse / Pydev
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
