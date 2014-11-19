@@ -77,3 +77,7 @@ local.properties
 
 # PyCharm
 .idea/
+
+# Spyder
+*.spyderworkspace
+*.spyderproject
